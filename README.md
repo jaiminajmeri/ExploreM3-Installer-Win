@@ -1,1 +1,2 @@
-Explore M3 installer for windows
+= Explore M3 installer for windows =
+====== Beta release ======
